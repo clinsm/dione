@@ -1,4 +1,4 @@
-@charset "UTF-8";
+'Poppins'@charset "UTF-8";
 .u-hidden-block {
   visibility: hidden!important;
 }
@@ -17254,7 +17254,7 @@ p {
   font-family: Georgia, serif !important;
 }
 .u-font-roboto.u-custom-font {
-  font-family: Roboto, sans-serif !important;
+  font-family: 'Poppins', sans-serif !important;
 }
 .u-font-open-sans.u-custom-font {
   font-family: 'Open Sans', sans-serif !important;
@@ -17266,7 +17266,7 @@ p {
   font-family: Montserrat, sans-serif !important;
 }
 .u-font-roboto-condensed.u-custom-font {
-  font-family: 'Roboto Condensed', sans-serif !important;
+  font-family: 'Poppins Condensed', sans-serif !important;
 }
 .u-font-source-sans-pro.u-custom-font {
   font-family: 'Source Sans Pro', sans-serif !important;
@@ -17290,7 +17290,7 @@ p {
   font-family: Merriweather, serif !important;
 }
 .u-font-roboto-slab.u-custom-font {
-  font-family: 'Roboto Slab', serif !important;
+  font-family: 'Poppins Slab', serif !important;
 }
 .u-font-playfair-display.u-custom-font {
   font-family: 'Playfair Display', serif !important;
@@ -18771,9 +18771,9 @@ a.pswp__share--download:hover {
   --animation-custom_in-scale: 1;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-opacity: 0;
-  
-  
-  
+
+
+
 }
 @keyframes bounce {
   from,
@@ -20286,11 +20286,11 @@ a.pswp__share--download:hover {
 }
 /*end-commonstyles animation*/
 .animated.u-absolute-hcenter {
-  
+
   --animation-custom_in-translate_x: -50% !important;
 }
 .animated.u-absolute-vcenter {
-  
+
   --animation-custom_in-translate_y: -50% !important;
 }
 .u-cookies-consent {
@@ -24831,7 +24831,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto,sans-serif;
+  font-family: Poppins,sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -24855,7 +24855,7 @@ h6 {
   font-family: 'Open Sans',sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Roboto,sans-serif !important;
+  font-family: Poppins,sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -40250,8 +40250,8 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #647727 !important;
         }
 
-        
-        
+
+
         .u-custom-color-2,
         .u-body.u-custom-color-2,
         section.u-custom-color-2:before,
@@ -40317,8 +40317,8 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #f0f0f0 !important;
         }
 
-        
-        
+
+
         .u-custom-color-3,
         .u-body.u-custom-color-3,
         section.u-custom-color-3:before,
@@ -40384,8 +40384,8 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #b5b5b5 !important;
         }
 
-        
-        
+
+
         .u-custom-color-4,
         .u-body.u-custom-color-4,
         section.u-custom-color-4:before,
@@ -40451,8 +40451,8 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #636362 !important;
         }
 
-        
-        
+
+
         .u-custom-color-5,
         .u-body.u-custom-color-5,
         section.u-custom-color-5:before,
@@ -40518,9 +40518,9 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #be9d00 !important;
         }
 
-        
 
-        
+
+
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
@@ -40568,8 +40568,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #5a6b23 !important;
         }
-        
-        
+
+
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
@@ -40617,8 +40617,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #d8d8d8 !important;
         }
-        
-        
+
+
         .u-border-custom-color-3,
         .u-separator-custom-color-3:after
         {
@@ -40666,8 +40666,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #a3a3a3 !important;
         }
-        
-        
+
+
         .u-border-custom-color-4,
         .u-separator-custom-color-4:after
         {
@@ -40715,8 +40715,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #595958 !important;
         }
-        
-        
+
+
         .u-border-custom-color-5,
         .u-separator-custom-color-5:after
         {
@@ -40764,9 +40764,9 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #ab8d00 !important;
         }
-        
 
-        
+
+
         .u-text-custom-color-1,
         li.active > a.u-button-style.u-text-custom-color-1,
         li.active > a.u-button-style.u-text-custom-color-1[class*="u-border-"],
@@ -40833,8 +40833,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             color: #647727 !important;
         }
-        
-        
+
+
         .u-text-custom-color-2,
         li.active > a.u-button-style.u-text-custom-color-2,
         li.active > a.u-button-style.u-text-custom-color-2[class*="u-border-"],
@@ -40901,8 +40901,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             color: #f0f0f0 !important;
         }
-        
-        
+
+
         .u-text-custom-color-3,
         li.active > a.u-button-style.u-text-custom-color-3,
         li.active > a.u-button-style.u-text-custom-color-3[class*="u-border-"],
@@ -40969,8 +40969,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             color: #b5b5b5 !important;
         }
-        
-        
+
+
         .u-text-custom-color-4,
         li.active > a.u-button-style.u-text-custom-color-4,
         li.active > a.u-button-style.u-text-custom-color-4[class*="u-border-"],
@@ -41037,8 +41037,8 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             color: #636362 !important;
         }
-        
-        
+
+
         .u-text-custom-color-5,
         li.active > a.u-button-style.u-text-custom-color-5,
         li.active > a.u-button-style.u-text-custom-color-5[class*="u-border-"],
@@ -41108,109 +41108,109 @@ a.u-link.u-text-hover-grey-90:hover {
 
         .u-body
         {
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 340px;
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
         }
 
         /** common-rules **/
@@ -41252,7 +41252,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-weight: 900;
+        font-weight: 700;
         text-transform: uppercase;
         }
         h4
@@ -41375,7 +41375,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
+
 
         /** cms-rules **/
         /*begin-responsive rules*/
@@ -41509,7 +41509,7 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
+
 
 
 /*end-variables sitestylecss*/
@@ -41764,6 +41764,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/
