@@ -41644,7 +41644,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-2 {
   font-size: 0.875rem;
   font-weight: 300;
-  margin: 10px 1152px 19px 124px;
+  margin: 10px 0 19px 62px;
+  text-align: left;
 }
 @media (max-width: 1199px) {
    .u-footer {
