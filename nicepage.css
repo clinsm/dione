@@ -41772,7 +41772,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-2 {
     text-align: center;
-    width: 128px;
+    width: 128px !important;
     margin-left: auto;
     margin-right: auto;
   }
