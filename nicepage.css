@@ -6855,7 +6855,6 @@ section.u-image:not(.u-hover-box),
 .u-container-layout {
   position: relative;
   flex: 1;
-  max-width: 100%;
   transition-duration: inherit;
 }
 .u-inner-container-layout,
