@@ -12,6 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
+  overflow-x: hidden;
   margin: 0;
 }
 article,
@@ -17238,7 +17239,6 @@ p {
   text-align: left;
 }
 .u-text {
-  word-wrap: break-word;
   position: relative;
 }
 .u-word-break {
