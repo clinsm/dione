@@ -41644,7 +41644,10 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-2 {
   font-size: 0.875rem;
   font-weight: 300;
-  margin: 10px 0 19px 100px;
+  width: var(--theme-sheet-width-xl) !important;
+  margin: auto;
+  /*
+  margin: 10px 0 19px 100px;*/
   text-align: left;
 }
 @media (max-width: 1199px) {
@@ -41679,7 +41682,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
-    width: var(--theme-sheet-width-xl) !important;
+    width: var(--theme-sheet-width-lg) !important;
     margin: auto;
     /*
     width: auto;
@@ -41709,7 +41712,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
-    width: var(--theme-sheet-width-lg) !important;
+    width: var(--theme-sheet-width-md) !important;
     margin: auto;
     /*
     margin-right: calc(((100% - 720px) / 2) + 592px);
@@ -41742,6 +41745,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
+    width: var(--theme-sheet-width-sm) !important;
+    margin: auto;
+    /*
     margin-right: calc(((100% - 540px) / 2) + 412px);
     margin-left: calc(((100% - 540px) / 2));
   }
