@@ -16828,7 +16828,7 @@ div.u-video,
 }
 .menu-collapse .u-nav-link.u-file-icon img {
   position: absolute;
-  top: 0;
+  top: -10px;
   left: 0;
   object-fit: contain;
 }
@@ -41749,7 +41749,7 @@ a.u-link.u-text-hover-grey-90:hover {
     margin: auto;
     /*
     margin-right: calc(((100% - 540px) / 2) + 412px);
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));*/
   }
 }
 @media (max-width: 575px) {
@@ -41771,6 +41771,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
+    text-align: center;
     width: 128px;
     margin-left: auto;
     margin-right: auto;
